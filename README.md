@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eggwhat
-- 👀 I’m interested in Machine Learning
+- 🧆 something something 
 
 <!---
 eggwhat/eggwhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
