@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @eggwhat
-- 🧆 something something 
+⚠️ WORK IN PROGRESS ⚠️
 
 <!---
 eggwhat/eggwhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
