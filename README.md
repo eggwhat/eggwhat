@@ -1,6 +1,9 @@
-⚠️ WORK IN PROGRESS ⚠️
+## Hi, I'm Piotr 👋
 
-<!---
-eggwhat/eggwhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats-omega-cyan-81.vercel.app/api?username=eggwhat&theme=dark&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats-omega-cyan-81.vercel.app/api/top-langs/?username=eggwhat&layout=compact&theme=dark" />
+</a>
